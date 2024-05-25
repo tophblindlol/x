@@ -339,12 +339,12 @@ end
 
 -- Window
 
-local PORN.XXX = UiLib:CreateWindow("pornhub.com | PORN.XXX | .gg/hUvujCnGMb", Vector2.new(500, 600), Enum.KeyCode.RightShift)
+local azure = UiLib:CreateWindow("pornhub.com | PORN.XXX | .gg/hUvujCnGMb", Vector2.new(500, 600), Enum.KeyCode.RightShift)
 
 -- Tabs
 
-local MainTab = PORN.XXX:CreateTab("Main")
-local MiscTab = PORN.XXX:CreateTab("Misc")
+local MainTab = azure:CreateTab("Main")
+local MiscTab = azure:CreateTab("Misc")
 
 -- Sectors
 
